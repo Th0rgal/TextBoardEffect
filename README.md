@@ -5,6 +5,7 @@ Allows to center a word
 Enter a word, a width and a height
 
 ##Example
+```
 thoma@THOMAS ~\Workspace\PythonProjects\TextBoardEffect > master ≣ >                                                                                                                                      [09:39]
 ❯ py .\text_board_effect.py
 Input a word: hello
@@ -19,3 +20,4 @@ Input an height (>=3 and %2==1): 9
 #             #
 #             #
 ###############
+```
